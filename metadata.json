@@ -1,0 +1,11 @@
+{
+  "name": "COSMOS",
+  "description": "A cinematic 3D space exploration encyclopedia and celestial universe builder with gestural hand-tracking controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
