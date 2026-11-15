@@ -51,8 +51,25 @@ Cosmos focuses on experiential learning instead of passive textbook-style conten
 A modern, visually rich interface designed to create the feeling of actually exploring space.
 
 ---
+NASA Data & Resources
 
+Cosmos is designed to make astronomy and space exploration more interactive and accessible.
+
+The project currently uses custom-created 3D environments, manually curated astronomical information, and interactive visualizations.
+
+NASA resources relevant to Cosmos include:
+
+NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/
+
+NASA Astronomy Picture of the Day (APOD): https://api.nasa.gov/
+
+These resources can help expand Cosmos with real astronomical data, including confirmed exoplanets, planetary systems, and astronomy images.
+
+Future Integration
+
+I plan to integrate NASA datasets into Cosmos so users can explore verified astronomical discoveries alongside interactive 3D environments.
 ## 🛠️ Tech Stack
+--
 
 * ⚛️ React
 * 🌐 Three.js
