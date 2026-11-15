@@ -66,8 +66,8 @@ NASA Astronomy Picture of the Day (APOD): https://api.nasa.gov/
 These resources can help expand Cosmos with real astronomical data, including confirmed exoplanets, planetary systems, and astronomy images.
 
 Future Integration
-
 I plan to integrate NASA datasets into Cosmos so users can explore verified astronomical discoveries alongside interactive 3D environments.
+
 ---
 
 ## 🛠️ Tech Stack
